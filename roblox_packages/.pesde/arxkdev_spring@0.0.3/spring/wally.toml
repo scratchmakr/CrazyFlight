@@ -1,0 +1,8 @@
+[package]
+name = "arxkdev/spring"
+description = "Forked from https://github.com/Fraktality/spr."
+version = "0.0.3"
+license = "MIT"
+authors = ["Fraktality (https://github.com/Fraktality)", "Arxk (https://github.com/arxkdev)"]
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"

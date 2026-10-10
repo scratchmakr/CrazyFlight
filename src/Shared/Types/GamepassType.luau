@@ -1,0 +1,4 @@
+
+return {
+    VIP = "VIP",
+}
